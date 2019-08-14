@@ -1,0 +1,18 @@
+{
+    "servers": [
+        "http://jenkins-svr08",
+        "http://swiftbuildmgr",
+        "http://jenkins-svr3"
+    ],
+    "job_depth": 1,
+    "filters": "exclusion",
+    "consider_builds_before_days": 5,
+    "mail_config": {
+        "is_notification_service": false,
+        "smtp": "XXXXX",
+        "port": "25",
+        "from": "XXXX",
+        "mailing_list_1": "XXX",
+        "mailing_list_2": "XXX"
+    }
+}

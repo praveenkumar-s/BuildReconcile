@@ -1,0 +1,12 @@
+{
+    "inclusion": {
+        "job_names": [
+         
+        ]
+    },
+    "exclusion":{
+        "job_names":[
+           
+        ]
+    }
+}
